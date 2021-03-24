@@ -1,1 +1,1 @@
-# CVCWGprojecte
+# PROJECTE README #
